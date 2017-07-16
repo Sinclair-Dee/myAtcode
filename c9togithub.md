@@ -1,5 +1,7 @@
 ## How to push an existing Cloud9 project to GitHub
 
+### 每次使用c9前先pull再push。
+
 If you take the time to read down to the comments you’ll eventually figure out the right way to do it, but it’ll take a while. Here’s the run down:
 
 	1. In the bottom left of your C9 dashboard is a section called “Add-on Services”. Click “activate” next to the “GitHub” icon (if you haven’t already).
