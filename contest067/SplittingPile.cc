@@ -16,7 +16,7 @@ int main()
 	for(i= 0;i<n-1;i++){
 		sum0 +=l[i];
 	temp = (std::abs(2*sum0-sum))<temp?(std::abs(2*sum0-sum)):temp;
-	//可以直接调用std::abs
+	//可以直接调用std::abs,提交后资源占用和程序运行时间都没有什么变化，但是使程序看上去短了一些。
 	//if(2*sum0-sum>=0)
 	//	temp= (2*sum0-sum)<temp?(2*sum0-sum):temp;
 	//else 
