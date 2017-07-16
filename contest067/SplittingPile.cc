@@ -10,7 +10,7 @@ int main()
 	cin>>l[i];
 	sum +=l[i];
     }
-    // output
+    // operation procssing
 	long long sum0 = 0;
 	long long temp =	1000000000000000;
 	for(i= 0;i<n-1;i++){
