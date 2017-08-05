@@ -1,5 +1,6 @@
 //占用空间和时间都比较少的一种算法。
 //Status：TO DO
+//尚不理解题意。
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
