@@ -1,4 +1,4 @@
-//占用空间和时间都比较少的一种算法。
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
