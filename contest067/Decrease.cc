@@ -3,7 +3,7 @@
 //尚不理解题意。
 #include <iostream>
 #include <cstdio>
-#include <algorithm>//??这个头文件中是什么？
+#include <algorithm>//??这个头文件中是什么？？
 using namespace std;
 long long num[50];
  
