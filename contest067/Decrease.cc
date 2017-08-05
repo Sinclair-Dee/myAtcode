@@ -5,6 +5,7 @@
 #include <cstdio>
 #include <algorithm>//??这个头文件中是什么？？
 using namespace std;
+
 long long num[50];
  
 int main()
